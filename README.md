@@ -1,6 +1,5 @@
 # Felix Pharm
 
-## 🌱 One-liner
 **AI-driven water optimization system for agriculture using sensor data and machine learning.**
 
 ## 📌 Description
